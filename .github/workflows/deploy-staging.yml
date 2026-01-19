@@ -1,5 +1,5 @@
 name: Stage the app
-
+# staging workflow trigger
 on:
   pull_request:
     types: [labeled]
